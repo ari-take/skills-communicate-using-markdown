@@ -9,4 +9,5 @@ aa
 # $ git init
 # /Users/skills/Projects/recipe-repository/.git/ に空の Git リポジトリを初期化しました
 # git init
+# javascript
 # var myVar = "Hello, world!";
